@@ -1,10 +1,8 @@
-<img src="./img/logo.png" width="400"/>
+<img src="./img/logo.png" width="400" align=center/>
 
 # 日历课表管理（mac - iphone）
 
 > 项目是根据网上一些日历课表改写，默认每节课2小时，可以做到mac批量操作，手机同步增删改查操作。
-
-
 
 <img src="./img/mac_calendar.png" alt="CleanShot 2022-06-22 at 19.52.28@2x" style="zoom:50%;" />
 
