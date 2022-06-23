@@ -1,6 +1,4 @@
-# 
-
-<img src="/Users/jiegengzhe/Downloads/HatchfulExport-All/logo.png" alt="logo" style="zoom:50%;" />
+<img src="./img/logo.png" width="400"/>
 
 # 日历课表管理（mac - iphone）
 
@@ -8,7 +6,11 @@
 
 
 
+<img src="./img/mac_calendar.png" alt="CleanShot 2022-06-22 at 19.52.28@2x" style="zoom:50%;" />
 
+<img src="./img/ipad_calendar.jpeg" alt="CleanShot 2022-06-22 at 19.52.28@2x" style="zoom:50%;" />
+
+<img src="./img/iphone_calendar.jpeg" alt="CleanShot 2022-06-22 at 19.52.28@2x" style="zoom:20%;" />
 
 ## 安装依赖
 
@@ -18,13 +20,13 @@
 
 选择适合芯片的源
 
-<img src="/Users/jiegengzhe/Library/Application Support/CleanShot/media/media_3ZXd9iJroI/CleanShot 2022-06-22 at 19.52.28@2x.png" alt="CleanShot 2022-06-22 at 19.52.28@2x" style="zoom:50%;" />
+<img src="./img/anaconda_download.png" alt="CleanShot 2022-06-22 at 19.52.28@2x" style="zoom:50%;" />
 
 下载完成后，按照步骤安装
 
 俩个勾一定要勾选
 
-<img src="/Users/jiegengzhe/Library/Application Support/CleanShot/media/media_Qgukzi9TSh/CleanShot 2022-06-22 at 20.58.27@2x.png" alt="CleanShot 2022-06-22 at 20.58.27@2x" style="zoom:30%;" />
+<img src="./img/anaconda_install.png" alt="CleanShot 2022-06-22 at 19.52.28@2x" style="zoom:50%;" />
 
 #### 测试python版本
 
@@ -69,11 +71,11 @@ pip install xlrd==1.2.0
 
 ```command + ,``` 打开偏好设置，安全性，启用所有宏（不推荐：可能会运行有潜在危险的代码）
 
-<img src="/Users/jiegengzhe/Library/Application Support/CleanShot/media/media_Kz3w2weFO3/CleanShot 2022-06-21 at 18.06.47.png" alt="CleanShot 2022-06-21 at 18.06.47" style="zoom:50%;" />
+<img src="./img/excel_setting.png" alt="CleanShot 2022-06-21 at 18.06.47" style="zoom:80%;" />
 
 ```command + ,``` 打开偏好设置，功能区，自定义功能区打开开发工具
 
-<img src="/Users/jiegengzhe/Library/Application Support/CleanShot/media/media_HLjD8fq2UC/CleanShot 2022-06-21 at 18.01.38.png" alt="CleanShot 2022-06-21 at 18.01.38" style="zoom:50%;" />
+<img src="./img/excel_developer.png" alt="CleanShot 2022-06-21 at 18.01.38" style="zoom:60%;" />
 
 
 
@@ -81,7 +83,7 @@ pip install xlrd==1.2.0
 
 ### 录入基础信息
 
-<img src="/Users/jiegengzhe/Library/Application Support/CleanShot/media/media_9zevRoov5C/CleanShot 2022-06-21 at 17.26.55.png" alt="CleanShot 2022-06-21 at 17.26.55" style="zoom:80%;" />
+<img src="./img/info_input.png" alt="CleanShot 2022-06-21 at 17.26.55" style="zoom:80%;" />
 
 #### 点击文件夹内xlsx文件（需要excel打开）
 ```calendar_excel_input.xlsx```
