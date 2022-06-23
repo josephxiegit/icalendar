@@ -24,7 +24,7 @@
 
 俩个勾一定要勾选
 
-<img src="./img/anaconda_install.png" alt="CleanShot 2022-06-22 at 19.52.28@2x" style="zoom:50%;" />
+<img src="./img/anaconda_install.png" alt="CleanShot 2022-06-22 at 19.52.28@2x" style="zoom:100%;" />
 
 #### 测试python版本
 
