@@ -1,4 +1,4 @@
-<img src="./img/logo.png" width="400" align=center/>
+<img src="./img/logo.png"/>
 
 # 日历课表管理（mac - iphone）
 
@@ -8,7 +8,7 @@
 
 <img src="./img/ipad_calendar.jpeg" alt="CleanShot 2022-06-22 at 19.52.28@2x" style="zoom:50%;" />
 
-<img src="./img/iphone_calendar.jpeg" alt="CleanShot 2022-06-22 at 19.52.28@2x" style="zoom:20%;" />
+<img src="./img/iphone_calendar.jpeg" alt="CleanShot 2022-06-22 at 19.52.28@2x" style="zoom:20%;width=400" />
 
 ## 安装依赖
 
