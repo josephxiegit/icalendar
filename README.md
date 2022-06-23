@@ -1,4 +1,4 @@
-<img src="./img/logo.png" width="400"/>
+<img src="./img/logo.png"/>
 
 # 日历课表管理（mac - iphone）
 
