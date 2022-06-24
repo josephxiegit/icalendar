@@ -1,5 +1,6 @@
+<div align="center">
 <img src="./img/logo2.png"/>
-
+</div>
 # 日历课表管理（mac - iphone）
 
 > 项目是根据网上一些日历课表改写，默认每节课2小时，可以做到mac批量操作，手机同步增删改查操作。
