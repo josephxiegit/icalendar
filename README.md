@@ -158,3 +158,11 @@ python outputics.py
 
 如果出现iphone长期不能同步，也可以隔空投送或者email给自己，用手机打开ics文件
 
+### 打开icloud日历同步，才能同步日历内容
+
+手机，iPad，MacBook登陆同一个Apple ID
+
+设置 - iCloud - 日历 打开同步
+
+<img src="./img/icloud.png" style="zoom:100%;" />
+
